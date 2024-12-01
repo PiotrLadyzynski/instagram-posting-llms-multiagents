@@ -1,0 +1,31 @@
+planner_task:
+  description: >
+    Create a content plan for an engaging Instagram post about {topic}
+    Content plan should consists of: Searching for 4 extremely interesting facts on {topic}, writing description with hashtags, generating images.
+  expected_output: >
+    A content plan for an engaging Instagram post about {topic}
+  agent: planner
+
+
+research_task:
+  description: >
+    Conduct a thorough research about {topic}
+    Make sure you find any interesting and engaging information and interesting facts.
+  expected_output: >
+    A list with 4 points of the most engaging information about {topic}
+  agent: researcher
+
+write_task:
+  description: >
+    Write an engaging instagram post about {topic}. Include relevant hashtags.
+  expected_output: >
+    An engaging instagram post about {topic} with relevant hashtags.
+  agent: writer
+
+
+gen_photos__task:
+  description: >
+    Generate an engaging photos {topic} using dall for instagram post in carousel.
+  expected_output: >
+    A list of 4 engaging photos about {topic}.
+  agent: photographer
