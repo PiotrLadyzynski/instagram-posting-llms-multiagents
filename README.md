@@ -93,39 +93,24 @@ These bass legends show us the power of the bass guitar beyond rhythm! Who’s y
 1. **James Jamerson**
    - Description: A dynamic portrait of James Jamerson playing his bass guitar in a Motown studio.
    - Generated Image: ![James Jamerson](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-2L93EH6Wk4zbgRaSVUuRwmVL.png?st=2024-12-02T11%3A37%3A53Z&se=2024-12-02T13%3A37%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T03%3A41%3A10Z&ske=2024-12-03T03%3A41%3A10Z&sks=b&skv=2024-08-04&sig=IPfYK4PTJ2IW6lVUGDU9dVdgnxBcnNW1UsYRVEmtftU%3D)
+
+
+
+2. **Victor Wooten**
+   - Description: An energetic scene of Victor Wooten performing on stage, showcasing his signature slap bass technique.
+   - Generated Image: ![Victor Wooten](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-bYslgoFT5T3QXrdjFWpJKhdt.png?st=2024-12-02T11%3A38%3A06Z&se=2024-12-02T13%3A38%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-01T17%3A26%3A25Z&ske=2024-12-02T17%3A26%3A25Z&sks=b&skv=2024-08-04&sig=ps82Dn9VBFBLcyBsY4/Ha7jrute43d7dLsgz%2Bm6UTYA%3D)
+    
+
+
+3. **Paul McCartney**
+   - Description: A nostalgic scene of Paul McCartney playing his iconic Hofner bass guitar during The Beatles era.
+   - Generated Image: ![Paul McCartney](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-xuzAXlSZ3UWu4CldVMPy8zOw.png?st=2024-12-02T11%3A38%3A16Z&se=2024-12-02T13%3A38%3A16Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A52%3A14Z&ske=2024-12-03T04%3A52%3A14Z&sks=b&skv=2024-08-04&sig=YeoEZwgdXIyIQdJDRmo6sXhL%2BwhUUSIdNq/q%2Bb5wSHY%3D)
+   -  ![image](https://github.com/user-attachments/assets/e2654e35-9013-4944-a38e-da55424614eb)
+
+4. **Geddy Lee**
+   - Description: A powerful scene of Geddy Lee on stage with his Rickenbacker bass guitar immersed in a light show.
+   - Generated Image: ![Geddy Lee](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-ZmTAbpe74spnYhbfhoVk9UXK.png?st=2024-12-02T11%3A38%3A35Z&se=2024-12-02T13%3A38%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A35%3A57Z&ske=2024-12-03T04%3A35%3A57Z&sks=b&skv=2024-08-04&sig=ejtaPu5ppu%2BdXYWG9QGKaz22F5xzQfnKhmhDaijY9Pk%3D)
      ![image](https://github.com/user-attachments/assets/a241e4f7-9e5a-4d99-a48f-b70d34bdf125)
-
-
-2. **Victor Wooten**
-   - Description: An energetic scene of Victor Wooten performing on stage, showcasing his signature slap bass technique.
-   - Generated Image: ![Victor Wooten](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-bYslgoFT5T3QXrdjFWpJKhdt.png?st=2024-12-02T11%3A38%3A06Z&se=2024-12-02T13%3A38%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-01T17%3A26%3A25Z&ske=2024-12-02T17%3A26%3A25Z&sks=b&skv=2024-08-04&sig=ps82Dn9VBFBLcyBsY4/Ha7jrute43d7dLsgz%2Bm6UTYA%3D)
-     ![image](https://github.com/user-attachments/assets/e2654e35-9013-4944-a38e-da55424614eb)
-
-
-3. **Paul McCartney**
-   - Description: A nostalgic scene of Paul McCartney playing his iconic Hofner bass guitar during The Beatles era.
-   - Generated Image: ![Paul McCartney](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-xuzAXlSZ3UWu4CldVMPy8zOw.png?st=2024-12-02T11%3A38%3A16Z&se=2024-12-02T13%3A38%3A16Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A52%3A14Z&ske=2024-12-03T04%3A52%3A14Z&sks=b&skv=2024-08-04&sig=YeoEZwgdXIyIQdJDRmo6sXhL%2BwhUUSIdNq/q%2Bb5wSHY%3D)
-
-4. **Geddy Lee**
-   - Description: A powerful scene of Geddy Lee on stage with his Rickenbacker bass guitar immersed in a light show.
-   - Generated Image: ![Geddy Lee](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-ZmTAbpe74spnYhbfhoVk9UXK.png?st=2024-12-02T11%3A38%3A35Z&se=2024-12-02T13%3A38%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A35%3A57Z&ske=2024-12-03T04%3A35%3A57Z&sks=b&skv=2024-08-04&sig=ejtaPu5ppu%2BdXYWG9QGKaz22F5xzQfnKhmhDaijY9Pk%3D)
-
-
-1. **James Jamerson**
-   - Description: A dynamic portrait of James Jamerson playing his bass guitar in a Motown studio.
-   - Generated Image: ![James Jamerson](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-2L93EH6Wk4zbgRaSVUuRwmVL.png?st=2024-12-02T11%3A37%3A53Z&se=2024-12-02T13%3A37%3A53Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T03%3A41%3A10Z&ske=2024-12-03T03%3A41%3A10Z&sks=b&skv=2024-08-04&sig=IPfYK4PTJ2IW6lVUGDU9dVdgnxBcnNW1UsYRVEmtftU%3D)
-
-2. **Victor Wooten**
-   - Description: An energetic scene of Victor Wooten performing on stage, showcasing his signature slap bass technique.
-   - Generated Image: ![Victor Wooten](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-bYslgoFT5T3QXrdjFWpJKhdt.png?st=2024-12-02T11%3A38%3A06Z&se=2024-12-02T13%3A38%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-01T17%3A26%3A25Z&ske=2024-12-02T17%3A26%3A25Z&sks=b&skv=2024-08-04&sig=ps82Dn9VBFBLcyBsY4/Ha7jrute43d7dLsgz%2Bm6UTYA%3D)
-
-3. **Paul McCartney**
-   - Description: A nostalgic scene of Paul McCartney playing his iconic Hofner bass guitar during The Beatles era.
-   - Generated Image: ![Paul McCartney](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-xuzAXlSZ3UWu4CldVMPy8zOw.png?st=2024-12-02T11%3A38%3A16Z&se=2024-12-02T13%3A38%3A16Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A52%3A14Z&ske=2024-12-03T04%3A52%3A14Z&sks=b&skv=2024-08-04&sig=YeoEZwgdXIyIQdJDRmo6sXhL%2BwhUUSIdNq/q%2Bb5wSHY%3D)
-
-4. **Geddy Lee**
-   - Description: A powerful scene of Geddy Lee on stage with his Rickenbacker bass guitar immersed in a light show.
-   - Generated Image: ![Geddy Lee](https://oaidalleapiprodscus.blob.core.windows.net/private/org-XttYXVqby79YFf8O40IwcrqY/user-abK9hacJac5r7gY8tQIyqXO0/img-ZmTAbpe74spnYhbfhoVk9UXK.png?st=2024-12-02T11%3A38%3A35Z&se=2024-12-02T13%3A38%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-02T04%3A35%3A57Z&ske=2024-12-03T04%3A35%3A57Z&sks=b&skv=2024-08-04&sig=ejtaPu5ppu%2BdXYWG9QGKaz22F5xzQfnKhmhDaijY9Pk%3D)
 
 
 ## Detailed run of the system
