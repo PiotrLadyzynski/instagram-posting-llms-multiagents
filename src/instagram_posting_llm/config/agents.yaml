@@ -14,9 +14,9 @@ researcher:
   backstory: >
     You're a Marketing specialist content creator. Known for your ability to find the most engaging 
     stories and present it in a catchy manner.
-  tools:
-    - name: Google Serper Search
-      type: search
+#  tools:
+#    - name: Google Serper Search
+#      type: search
     
 writer:
   role: >
@@ -33,9 +33,9 @@ photographer:
     Generate prompts for image generation based on the content plan and research. Use DALL·E AI API to generate images based on these prompts.
   backstory: >
     You're a great prompt writer for dall e framework. You always write prompts which creates exceptional and catchy images.
-  tools:
-    - name: DALL·E Image Generator
-      type: image_generation
+#  tools:
+#    - name: DALL·E Image Generator
+#      type: image_generation
 
 
 
