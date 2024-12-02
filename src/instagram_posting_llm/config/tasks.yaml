@@ -25,7 +25,7 @@ write_task:
 
 gen_photos__task:
   description: >
-    Generate an engaging photos {topic} using dall for instagram post in carousel.
+    Generate an engaging photos {topic} using dall for instagram post in carousel. Generate 4 prompts on {topic} then send prompts as request to DALL e tool and save images.
   expected_output: >
-    A list of 4 engaging photos about {topic}.
+    A list of 4 engaging photos about {topic} and a list of 4 generated photos saved in files about {topic}.
   agent: photographer

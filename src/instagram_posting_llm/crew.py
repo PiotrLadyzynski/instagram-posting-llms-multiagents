@@ -1,5 +1,7 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task, before_kickoff, after_kickoff
+from crewai_tools.tools.dalle_tool.dalle_tool import DallETool
+
 
 # Uncomment the following line to use an example of a custom tool
 # from instagram_posting_llm.tools.custom_tool import MyCustomTool
@@ -7,12 +9,20 @@ from crewai.project import CrewBase, agent, crew, task, before_kickoff, after_ki
 # Check our tools documentations for more information on how to use them
 # from crewai_tools import SerperDevTool
 
+
+
+
 @CrewBase
 class InstagramPostingLlm():
 	"""InstagramPostingLlm crew"""
 
 	agents_config = 'config/agents.yaml'
 	tasks_config = 'config/tasks.yaml'
+
+	dalle_tool = DallETool(model="dall-e-3",
+						   size="1024x1024",
+						   quality="standard",
+						   n=1)
 
 	# @before_kickoff # Optional hook to be executed before the crew starts
 	# def pull_data_example(self, inputs):
@@ -54,7 +64,7 @@ class InstagramPostingLlm():
 	def photographer(self) -> Agent:
 		return Agent(
 			config=self.agents_config['photographer'],
-			# tools=[MyCustomTool()], # Example of custom tool, loaded on the beginning of file
+			tools=[self.dalle_tool],
 			verbose=True
 		)
 

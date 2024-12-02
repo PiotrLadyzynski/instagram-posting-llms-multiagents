@@ -33,6 +33,8 @@ photographer:
     Generate prompts for image generation based on the content plan and research. Use DALL·E AI API to generate images based on these prompts.
   backstory: >
     You're a great prompt writer for dall e framework. You always write prompts which creates exceptional and catchy images.
+#  tools: >
+#    dalle_tool
 #  tools:
 #    - name: DALL·E Image Generator
 #      type: image_generation
